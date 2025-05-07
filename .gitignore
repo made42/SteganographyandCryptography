@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Steganography and Cryptography/*
+!/Steganography and Cryptography/task/
+/Steganography and Cryptography/task/*
+!/Steganography and Cryptography/task/src
+!/Steganography and Cryptography/task/test
